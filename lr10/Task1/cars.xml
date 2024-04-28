@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><cars>
+    <car>
+        <manufacturer>Toyota</manufacturer>
+        <model>Camry</model>
+        <year>2020</year>
+    </car>
+    <car>
+        <manufacturer>Ford</manufacturer>
+        <model>Mustang</model>
+        <year>2018</year>
+    </car>
+    <car>
+        <manufacturer>Chevrolet</manufacturer>
+        <model>Corvette</model>
+        <year>2021</year>
+    </car>
+    <car>
+        <manufacturer>LADA</manufacturer>
+        <model>VAZ 2107</model>
+        <year>2002</year>
+    </car>
+<car>
+    <manufacturer>LADA</manufacturer>
+    <model>VAz 2112</model>
+    <year>2004</year>
+</car>
+</cars>
